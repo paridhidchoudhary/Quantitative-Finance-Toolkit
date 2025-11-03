@@ -746,9 +746,6 @@ Solution: Use "survivorship-bias-free" datasets
 - Markowitz (1952): "Portfolio Selection"
 - Engle-Granger (1987): "Co-integration and Error Correction"
 
-### Online
-- QuantStart, Quantopian tutorials, Khan Academy (statistics/probability)
-
 ---
 
 ## 🤝 Contributing
@@ -762,17 +759,6 @@ This is an educational project. Suggestions for improvements:
 
 ---
 
-## ⚖️ Disclaimer
-
-**This code is for educational purposes only.** 
-
-- Not financial advice
-- Past performance ≠ future results
-- Real trading involves transaction costs, slippage, margin requirements
-- Strategies may not work in all market conditions
-- Always test thoroughly before risking real capital
-
----
 
 ## 📧 Contact
 
@@ -785,32 +771,3 @@ For questions or collaboration: [paridhidchoudhary@gmail.com/https://www.linkedi
 ---
 
 
----
-
-## **FILES TO INCLUDE IN REPO:**
-```
-quantitative-finance-toolkit/
-│
-├── README.md                    (Above content)
-├── requirements.txt             (Dependencies)
-├── .gitignore                   (Python gitignore)
-│
-├── notebooks/
-│   └── quant_finance_analysis.ipynb    (Your main notebook)
-│
-├── src/
-│   ├── __init__.py
-│   ├── options_pricing.py       (Extracted from notebook)
-│   ├── portfolio_optimization.py
-│   └── statistical_arbitrage.py
-│
-├── data/
-│   └── .gitkeep                 (Placeholder for data folder)
-│
-├── results/
-│   ├── option_payoffs.png
-│   ├── efficient_frontier.png
-│   └── pairs_trading_analysis.png
-│
-└── docs/
-    └── technical_notes.md       (Additional documentation)
