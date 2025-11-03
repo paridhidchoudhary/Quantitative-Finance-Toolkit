@@ -552,31 +552,6 @@ Performance:
 
 ---
 
-## 🔧 Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/quantitative-finance-toolkit.git
-cd quantitative-finance-toolkit
-
-# Install dependencies
-pip install numpy pandas matplotlib yfinance scipy seaborn statsmodels
-
-# Or use requirements.txt
-pip install -r requirements.txt
-```
-
-**Requirements:**
-```txt
-numpy>=1.24.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-yfinance>=0.2.28
-scipy>=1.11.0
-seaborn>=0.12.0
-statsmodels>=0.14.0
-```
-
----
 
 ## 🚀 Usage
 
